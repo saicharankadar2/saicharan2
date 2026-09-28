@@ -25,10 +25,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/_eshwar_20" target="_blank">
+<a href=""target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/eshwardasari/" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:eshwardasari138@gmail.com">
