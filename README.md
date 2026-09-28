@@ -25,13 +25,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href=""target="_blank">
+<a href="https://www.instagram.com/vinni_kadaru?stkn=MTQ4emo0YWJpY240Mw==&utm_source=ig_contact_invite"target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
 </a>
-<a href="" target="_blank">
+<a href="http://linkedin.com/in/kadar-sai-charan" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:eshwardasari138@gmail.com">
+<a href="mailto:saicharankadar19@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 </p>
